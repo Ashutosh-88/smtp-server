@@ -1,0 +1,20 @@
+{
+  "name": "smtp-server",
+  "version": "1.0.0",
+  "description": "This is my own SMTP Server",
+  "homepage": "https://github.com/Ashutosh-88/smtp-server#readme",
+  "bugs": {
+    "url": "https://github.com/Ashutosh-88/smtp-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashutosh-88/smtp-server.git"
+  },
+  "license": "ISC",
+  "author": "Ashutosh-88",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
